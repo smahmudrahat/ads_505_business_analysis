@@ -34,7 +34,7 @@ Investing in real estate provides long-term passive income, but choosing the rig
 ## 💡 How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Best-Region-RealEstate-Investment.git
+   git clone https://github.com/smahmudrahat/ads_505_business_analysis.git
    cd Best-Region-RealEstate-Investment
    ```
 2. Install dependencies:
